@@ -1,0 +1,29 @@
+{
+  "name": "playwright-starter-kata",
+  "version": "1.0.0",
+  "description": "This is a project to practice, learn and understand playwright 🤖 to work with automatic tests 🧪",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zearkiatos/playwright-starter-kata.git"
+  },
+  "keywords": [
+    "Playwright",
+    "test",
+    "e2e",
+    "automatic",
+    "tests"
+  ],
+  "author": "Pedro Capriles <caprilespe@outlook.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zearkiatos/playwright-starter-kata/issues"
+  },
+  "homepage": "https://github.com/zearkiatos/playwright-starter-kata#readme",
+  "devDependencies": {
+    "playwright": "^1.32.2"
+  }
+}
